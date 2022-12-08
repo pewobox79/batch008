@@ -1,0 +1,18 @@
+{
+  "name": "nodeuebung",
+  "version": "1.0.0",
+  "description": "meine erste nodeuebung",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "peter wolf",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
