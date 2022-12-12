@@ -12,6 +12,8 @@ export default function ToDoListOutput({list}){
 
     })
 
+    console.log("die listenelemente",myList)
+
     return(
         <ul>
             {myList}
